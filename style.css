@@ -1,0 +1,19 @@
+*{
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-family: "Comic Sans MS",Arial,'Times New Roman', Times, serif,sans-serif;
+}
+body{
+    margin: 20px; 
+    display: flex;
+    flex-direction: column;
+}
+main{
+    flex: 1;
+    margin:35px;
+}
+a{
+    color: red;
+    margin: 30px;
+}
